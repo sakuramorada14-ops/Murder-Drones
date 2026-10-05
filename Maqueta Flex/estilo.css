@@ -38,17 +38,29 @@ nav span {
 
 nav span:nth-child(1),
 
-nav span:nth-child(7) { background: #f9d629; } 
+nav span:nth-child(7) {
+   background: #f9d629;
+   } 
 
-nav span:nth-child(2) { background: #2d75d9; } 
+nav span:nth-child(2) {
+   background: #2d75d9;
+   } 
 
-nav span:nth-child(3) { background: #33b246; } 
+nav span:nth-child(3) {
+   background: #33b246; 
+  } 
 
-nav span:nth-child(4) { background: #21c19b; } 
+nav span:nth-child(4) {
+   background: #21c19b;
+   } 
 
-nav span:nth-child(5) { background: #e26b26; } 
+nav span:nth-child(5) {
+   background: #e26b26; 
+  } 
 
-nav span:nth-child(6) { background: #e85892; } 
+nav span:nth-child(6) {
+   background: #e85892;
+   } 
 
 .sidebar {
   background: #297ef5; 
